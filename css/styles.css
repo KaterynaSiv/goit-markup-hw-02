@@ -129,11 +129,13 @@ ul {
   background-color: #f4f4fd;
 }
 
+.team-item {
+  background-color: #ffffff;
+}
+
 .footer {
   background-color: #2e2f42;
 }
-
-.portfolio { background-color: #FFFFFF;}
 
 .footer-text {
   font-family: "Roboto", sans-serif;
